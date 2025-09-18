@@ -27,8 +27,8 @@ The dataset used in this project was obtained from **Kaggle**.
 Clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/AsifAmir/cancer-diagnosis-ml.git
-cd cancer-diagnosis-ml
+git clone https://github.com/AsifAmir/Cancer_Diagnosis_ML.git
+cd Cancer_Diagnosis_ML
 pip install -r requirements.txt
 ```
 
